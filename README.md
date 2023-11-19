@@ -3,12 +3,12 @@
 	<a href="https://tparh.github.io/"><img src="https://img.shields.io/badge/portfolio-E6007A?style=for-the-badge&logo=polkadot&logoColor=000" alt="Portfolio"></a>
 	<a href="mailto:parththakre613@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 	<a href="https://www.linkedin.com/in/tparh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-	<a href="https://twitter.com/tparh_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+	<!-- <a href="https://twitter.com/tparh_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> -->
 	<a href="https://www.codechef.com/users/tparh"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="Codechef"></a>
 	<a href="https://www.hackerrank.com/tparh"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
-	<a href="https://www.hackerearth.com/@tparh"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="Hackerearth"></a>
+	<!-- <a href="https://www.hackerearth.com/@tparh"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="Hackerearth"></a> -->
 	<a href="https://github.com/tparh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Recursion"></a>
-	<a href="https://stackoverflow.com/users/17860142/tparh"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"></a>
+	<!-- <a href="https://stackoverflow.com/users/17860142/tparh"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"></a> -->
 	
 </p>
 	
