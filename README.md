@@ -1,3 +1,5 @@
+<!-- Parth Thakre | GitHub Profile README -->
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -12,14 +14,6 @@
     alt="Parth Thakre - Software Engineer"
     width="100%"
   />
-</picture>
-
-<!-- Parth Thakre | GitHub Profile README -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Parth Thakre — Software Engineer, Backend Engineering, DSA and MERN Stack" src="./dark.svg" width="100%">
 </picture>
 
 <h2 align="center">Hey, I'm Parth Thakre 👋</h2>
