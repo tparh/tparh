@@ -4,7 +4,9 @@
 <!-- Repository: github.com/tparh/tparh                        -->
 <!-- ========================================================= -->
 
-<!-- HERO -->
+
+<!-- ======================== HERO ========================== -->
+
 <p align="center">
   <picture>
     <source
@@ -23,7 +25,9 @@
   </picture>
 </p>
 
-<!-- IDENTITY -->
+
+<!-- ====================== IDENTITY ======================== -->
+
 <h1 align="center">Hey, I'm Parth Thakre 👋</h1>
 
 <h3 align="center">
@@ -32,39 +36,48 @@
 
 <p align="center">
   <a href="https://github.com/tparh">
-    <img src="https://img.shields.io/badge/GitHub-tparh-181717?style=flat-square&logo=github" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-tparh-181717?style=flat-square&logo=github"
+      alt="GitHub"
+    />
   </a>
   <a href="https://leetcode.com/u/tparh/">
-    <img src="https://img.shields.io/badge/LeetCode-750%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img
+      src="https://img.shields.io/badge/LeetCode-750%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black"
+      alt="LeetCode"
+    />
   </a>
   <a href="https://linkedin.com/in/tparh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- ABOUT -->
-<!-- ========================================================= -->
+
+<!-- ======================= ABOUT ========================== -->
 
 ## 01. About Me
 
-I'm a software engineering student at **G. H. Raisoni College of Engineering, Nagpur**, interested in building robust software and understanding the engineering principles behind it.
+I'm Parth Thakre, a software engineering student at **G. H. Raisoni College of Engineering, Nagpur**, focused on strengthening my foundations in software engineering and building practical applications.
 
-My primary interest lies in **backend engineering** — designing APIs, structuring application logic, working with databases, and understanding how different components interact to create reliable systems.
+I'm particularly drawn to **backend engineering** — designing APIs, structuring application logic, working with databases, and understanding how systems behave beyond the happy path.
 
-I have worked with the MERN stack and backend technologies including Node.js, Express.js, MongoDB, Redis and BullMQ. I also enjoy solving algorithmic problems using C++ and strengthening my computer science fundamentals.
+I enjoy solving challenging problems, thinking through architectural decisions, and exploring how individual components come together to create reliable, maintainable software.
+
+My development experience includes the MERN stack and backend technologies such as Node.js, Express.js, MongoDB, Redis and BullMQ. I also spend considerable time strengthening my computer science fundamentals through Data Structures and Algorithms using C++.
 
 Beyond conventional software development, I'm exploring Generative AI, RAG, AI agents and agentic workflows.
 
-I enjoy going beyond making something work. I want to understand why it works, how it can be improved, and what happens when systems become more complex.
+I believe good engineering is not simply about making something work. It's about understanding why it works, identifying potential weaknesses, and making thoughtful decisions that improve the overall system.
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- CORE STRENGTHS -->
-<!-- ========================================================= -->
+
+<!-- =================== CORE STRENGTHS ===================== -->
 
 ## 02. What I Bring to Engineering
 
@@ -105,57 +118,95 @@ I enjoy going beyond making something work. I want to understand why it works, h
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- TECH STACK -->
-<!-- ========================================================= -->
+
+<!-- ==================== TECH STACK ======================= -->
 
 ## 03. Technology Stack
 
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js" height="45" alt="C++, Java, Python, JavaScript"/>
+  <img
+    src="https://skillicons.dev/icons?i=cpp,java,python,js"
+    height="45"
+    alt="C++, Java, Python and JavaScript"
+  />
 </p>
 
 ### Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind" height="45" alt="React, Redux, HTML, CSS, Tailwind CSS"/>
+  <img
+    src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind"
+    height="45"
+    alt="React, Redux, HTML, CSS and Tailwind CSS"
+  />
 </p>
 
 ### Backend & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" height="45" alt="Node.js, Express, MongoDB, Redis"/>
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis"
+    height="45"
+    alt="Node.js, Express, MongoDB and Redis"
+  />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/BullMQ-Background%20Jobs-CB3837?style=flat-square" alt="BullMQ"/>
-  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens" alt="JWT"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-Backend%20Development-0EA5E9?style=flat-square" alt="REST APIs"/>
+  <img
+    src="https://img.shields.io/badge/BullMQ-Background%20Jobs-CB3837?style=flat-square"
+    alt="BullMQ"
+  />
+  <img
+    src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens"
+    alt="JWT"
+  />
+  <img
+    src="https://img.shields.io/badge/REST%20APIs-Backend%20Development-0EA5E9?style=flat-square"
+    alt="REST APIs"
+  />
 </p>
 
-### Tools & Environment
+### Tools & Development Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode" height="45" alt="Git, GitHub, Linux, Docker, Postman, VS Code"/>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode"
+    height="45"
+    alt="Git, GitHub, Linux, Docker, Postman and VS Code"
+  />
 </p>
 
 ### AI & Emerging Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Generative%20AI-Exploring-8B5CF6?style=flat-square" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/LLMs-Exploring-6366F1?style=flat-square" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG-Exploring-0891B2?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-Exploring-059669?style=flat-square" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-Exploring-7C3AED?style=flat-square" alt="Agentic AI"/>
+  <img
+    src="https://img.shields.io/badge/Generative%20AI-Exploring-8B5CF6?style=flat-square"
+    alt="Generative AI"
+  />
+  <img
+    src="https://img.shields.io/badge/LLMs-Exploring-6366F1?style=flat-square"
+    alt="Large Language Models"
+  />
+  <img
+    src="https://img.shields.io/badge/RAG-Exploring-0891B2?style=flat-square"
+    alt="Retrieval Augmented Generation"
+  />
+  <img
+    src="https://img.shields.io/badge/AI%20Agents-Exploring-059669?style=flat-square"
+    alt="AI Agents"
+  />
+  <img
+    src="https://img.shields.io/badge/Agentic%20AI-Exploring-7C3AED?style=flat-square"
+    alt="Agentic AI"
+  />
 </p>
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- BACKEND INTERESTS -->
-<!-- ========================================================= -->
+
+<!-- ================= BACKEND ENGINEERING ================= -->
 
 ## 04. Backend Engineering
 
@@ -168,16 +219,15 @@ What particularly interests me is everything happening behind the API response.
 | Caching | Redis, caching strategies |
 | Async Processing | BullMQ, background jobs, job queues |
 | Architecture | Modular design, separation of concerns |
-| System Design | Scalability, reliability, trade-offs |
+| System Design | Scalability, reliability, architectural trade-offs |
 | Infrastructure | Docker, Linux fundamentals |
 
 I enjoy understanding how these pieces fit together and how thoughtful engineering decisions contribute to maintainable applications.
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- LEETCODE -->
-<!-- ========================================================= -->
+
+<!-- ===================== LEETCODE ======================== -->
 
 ## 05. Problem Solving
 
@@ -198,15 +248,25 @@ Problem solving is an important part of my engineering journey.
 
 I use C++ to work through algorithmic challenges, explore different approaches, analyze time and space complexity, and develop a structured approach to solving unfamiliar problems.
 
-For me, DSA is not just about interview preparation. It builds the analytical thinking and problem decomposition skills that are valuable across software engineering.
+For me, DSA is not just about interview preparation. It builds analytical thinking, strengthens problem decomposition skills, and develops the ability to reason about efficiency and correctness.
 
 <p align="center">
   <a href="https://leetcode.com/u/tparh/">
-    <img
-      src="https://leetcard.jacoblin.cool/tparh?theme=dark&font=Baloo&ext=heatmap"
-      width="90%"
-      alt="LeetCode statistics and activity heatmap"
-    />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://leetcard.jacoblin.cool/tparh?theme=dark&font=Baloo&ext=heatmap"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://leetcard.jacoblin.cool/tparh?theme=light&font=Baloo&ext=heatmap"
+      />
+      <img
+        src="https://leetcard.jacoblin.cool/tparh?theme=dark&font=Baloo&ext=heatmap"
+        width="90%"
+        alt="Parth's LeetCode statistics and activity heatmap"
+      />
+    </picture>
   </a>
 </p>
 
@@ -218,9 +278,8 @@ For me, DSA is not just about interview preparation. It builds the analytical th
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- LEARNING -->
-<!-- ========================================================= -->
+
+<!-- ================= CURRENTLY EXPLORING ================ -->
 
 ## 06. Currently Exploring
 
@@ -235,60 +294,31 @@ I'm interested in developing a deeper understanding of the technologies and conc
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- GITHUB ANALYTICS -->
-<!-- ========================================================= -->
 
-## 07. GitHub Activity
+<!-- ===================== CONNECT ========================= -->
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tparh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tparh&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Most used languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tparh&theme=tokyonight&hide_border=true"
-    width="75%"
-    alt="GitHub contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tparh&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
-</p>
-
-<br/>
-
-<!-- ========================================================= -->
-<!-- CONNECT -->
-<!-- ========================================================= -->
-
-## 08. Let's Connect
+## 07. Let's Connect
 
 I'm always interested in connecting with developers, engineers and people who enjoy building software, discussing architecture and solving interesting problems.
 
 <p align="center">
   <a href="https://github.com/tparh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
   <a href="https://linkedin.com/in/tparh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://leetcode.com/u/tparh/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode"
+    />
   </a>
 </p>
 
@@ -300,6 +330,7 @@ I'm always interested in connecting with developers, engineers and people who en
   <sub>Thanks for stopping by!</sub>
 </p>
 
+
 <!-- ========================================================= -->
-<!-- END -->
+<!-- END OF README                                             -->
 <!-- ========================================================= -->
